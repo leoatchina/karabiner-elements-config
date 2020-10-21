@@ -209,7 +209,6 @@
                 "conditions": [
                   {
                     "bundle_identifiers": [
-                      "io.alacritty",
                       "com.googlecode.iterm2"
                     ],
                     "type": "frontmost_application_if"
@@ -237,7 +236,6 @@
                 "conditions": [
                   {
                     "bundle_identifiers": [
-                      "io.alacritty",
                       "com.googlecode.iterm2"
                     ],
                     "type": "frontmost_application_if"
@@ -265,7 +263,6 @@
                 "conditions": [
                   {
                     "bundle_identifiers": [
-                      "io.alacritty",
                       "com.googlecode.iterm2"
                     ],
                     "type": "frontmost_application_if"
@@ -294,7 +291,6 @@
                 "conditions": [
                   {
                     "bundle_identifiers": [
-                      "io.alacritty",
                       "com.googlecode.iterm2"
                     ],
                     "type": "frontmost_application_if"
@@ -324,7 +320,6 @@
                 "conditions": [
                   {
                     "bundle_identifiers": [
-                      "io.alacritty",
                       "com.googlecode.iterm2"
                     ],
                     "type": "frontmost_application_if"
@@ -352,7 +347,6 @@
                 "conditions": [
                   {
                     "bundle_identifiers": [
-                      "io.alacritty",
                       "com.googlecode.iterm2"
                     ],
                     "type": "frontmost_application_if"
@@ -414,7 +408,6 @@
                 "conditions": [
                   {
                     "bundle_identifiers": [
-                      "io.alacritty",
                       "com.tencent.WexinChat",
                       "com.tencent.qq",
                       "org.zotero.zotero",
